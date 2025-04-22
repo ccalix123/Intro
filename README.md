@@ -1,5 +1,5 @@
 <h1>Hi, I'm Chella! <br/><a href="https://github.com/ccalix123">Cybersecurity Analyst</a><br />
-  <a href="https://linkedin.com/in/chellacalix/">Operation Manager</a><br />
+  <a href="https://linkedin.com/in/chellacalix/">IT Helpdesk</a><br />
   <a>Marine Veteran<a> </h1>
 
 <h2>About Me:</h2>
